@@ -1,0 +1,2 @@
+mman.kr,32070,DIRECT
+mman.kr,32070,RESELLER
